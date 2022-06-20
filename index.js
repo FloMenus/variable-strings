@@ -10,7 +10,8 @@ console.log ("Hello World");
 //3- Concaténation
 
 //const name ="Florent";
-//console.log (`Nice to meet you ${name}`);
+//const sentence="Nice to meet you";
+//console.log (`${sentence} ${name}`);
 
 //4- String Lenght
 
